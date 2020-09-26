@@ -1,5 +1,5 @@
 # Credit-Card-Fraud-Detection
-### A ML approach to predict a random transcation in Fraud or Valid.
+### A ML approach to predict a random transcation is Fraud or Valid.
 
 ## About Dataset:
 The [Dataset](https://www.kaggle.com/dalpozz/creditcardfraud/data) contains transactions made by credit cards in September 2013 by european cardholders.
